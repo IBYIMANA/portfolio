@@ -1,0 +1,327 @@
+d{
+	    top: 0%;
+
+    }
+
+    ul li a{ 
+	        list-style-type: none;
+		    text-decoration: none;
+		        padding: 20px;  
+			    color: black;  
+			        border: 50px;
+				    font-size: 20px;
+			    }
+			    ul{
+				        list-style-type: none;
+					    display: flex;
+					        justify-content: flex-end;
+						    top: 0%;
+						        margin-right: 50px;
+						}
+						.imga{
+							    width: 700px;
+							        height: 900px;
+								    margin-top:0%;
+								        display: inline;
+									    margin-right: 0;
+								    }
+								    .container {
+									        text-align: center; 
+									}
+
+									.container h1,
+									.container div {
+										    margin-top: -600px;  
+										        margin-left: 80px;
+											    justify-content: center;
+											        text-align: center;
+											}
+											.bu{
+												    background-color: orange;
+												        color:white;
+													    width: 150px;
+													        height: 40px;
+														    border-color: orange;
+													    }
+													    .ba{
+														      background-color: black;
+														        color:white;
+															  width: 150px;
+															    height: 40px;
+															      border-color: black;
+
+														      }
+														      .bu:hover{
+															          background-color:white;
+																      color:orange;
+																          border-color: orange;
+																	      border-width: 0.5px;
+																      }
+																      .ba:hover{
+																	          background-color: white;
+																		      color: black;
+																		          border-color: black;
+																		  }
+																		  .p{
+																			      margin-left: 80px;
+																			          color: darkgrey;
+																				      font-size:14px;
+																				          margin-left: 80px;
+																				  }
+																				  .imga img{
+																					      width: 500px;
+																					           height:800px
+																					   }
+																					    .ab h2,p{
+																						        margin-bottom: 80px;
+																							    padding-right: 50px;
+																						    }
+																						    .bo{
+																							        background-color: orange;
+																								    color:white;
+																								        width: 150px;
+																									    height: 40px;
+																									        border-color: orange;
+																										    
+																									}
+																									.bo:hover{
+																										    background-color:white;
+																										        color:orange;
+																											    border-color: orange;
+																											        border-width: 0.5px;
+																											}
+																											.ed{
+																												    width: 50px;
+																												        height: 60px;
+																												}
+																												hr {
+																													    display: block;
+																													        margin-top: 0;
+																														    margin-bottom: 0.7em;
+																														        margin-left: auto;
+																															    margin-right: auto;
+																															        border-style: inset;
+																																    border-width: 1px;
+																																        width: 50%;
+																																	  }
+																																	    hr{
+																																		        margin-bottom: 0.8em;
+																																			  }
+																																			  .ph img{
+																																				      display: flex;
+																																				          width: 300px;
+																																					      height: 300px;
+																																					          float: left;
+																																						      padding: 5px;
+																																						          
+																																					      }
+																																					      .aa img{
+																																						          display: flex;
+																																							      width: 300px;
+																																							          height: 300px;
+																																								      float: left;
+																																								          padding: 5px;
+																																									    margin-bottom: 50px;   
+																																								    }
+																																								    .photo img{
+																																									        width: 1400px;
+																																										    height: 900px;
+																																										        padding-left: 80px;
+																																											    padding-right: 50px;
+																																										    }
+																																										    .x img{
+																																											        width:1500px;
+																																												    height: 700px;
+																																											    }
+																																											    .circular {
+																																												        width: 200px;
+																																													    height: 200px;
+																																													        border-radius: 50%; 
+																																														    overflow: hidden; 
+																																														        border: 2px solid #fff; 
+																																															    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+																																															        margin-left: 650px; 
+																																																  }
+																																																    .circular img {
+																																																	        width: 100%;
+																																																		    height: auto;
+																																																		        display: block;
+																																																			  }
+																																																			    .re h4,p{
+																																																				           text-align: center;
+																																																					          font-size: 20px;
+																																																						         color: white;
+																																																							   }
+																																																							     .bn h5{
+																																																								         text-align: center;
+																																																									     font-size: 20px;
+																																																									         margin-right: 50px;
+																																																										   }
+																																																										   .oo img{
+																																																											         width: 600px;
+																																																												       height: 500px;
+																																																												             display: flex;
+																																																												     }
+																																																												     .ao img{
+																																																													         display: flex;
+																																																													 }
+																																																													 .pa img{
+																																																														     width: 600px;
+																																																														         height: 400px;
+																																																															     float: left;
+																																																															         padding: 4px;
+																																																																     margin-left: 80px;
+																																																															     }
+																																																															     .bb{
+																																																																         color: black;
+																																																																	     font-size: 20px;
+																																																																	         font-weight: bold;
+																																																																	 }
+																																																																	 input{
+																																																																		     background-color:whitesmoke;
+																																																																		         text-align:black;
+																																																																			     font-size: 20px;
+																																																																			         width: 30%;
+																																																																				     border-width: 0.6px;
+																																																																				         padding: 8px;
+																																																																					     border-style: solid;
+																																																																					         border-radius: 30px;
+																																																																						     border: none;
+																																																																					     }
+																																																																					     .fi{
+																																																																						        width: 200px;
+																																																																							   height: 30px;
+																																																																							      color: white;
+																																																																							         background-color: orange;
+																																																																								    border: none;
+																																																																								       font-size: 20px;
+																																																																								          border-radius: 20px;
+																																																																									     text-align: center;
+																																																																								     }
+																																																																								     textarea{
+																																																																									         background-color:whitesmoke;
+																																																																										     text-align:black;
+																																																																										         width: 30%;
+																																																																											     border-radius: 10px;
+																																																																											         border: none;
+																																																																												     font-size: 20px;
+																																																																											     }
+																																																																											     .fan img{
+																																																																												         width: 500px;
+																																																																													     height: 400px;
+																																																																													         margin-left: 700px;
+																																																																														     margin-top: -400px;
+
+																																																																													     }
+																																																																													     h6{
+																																																																														         font-size: 20px;
+																																																																															     color: black;
+
+																																																																														     }
+																																																																														     .fe {
+																																																																															         background-color: black;
+																																																																																     width: 1500px;
+																																																																																         height: 400px;
+																																																																																 }
+																																																																																 .feo{
+																																																																																	     color: white;
+																																																																																	         margin-bottom: -60px;
+																																																																																		     margin-left: 500px;
+																																																																																	     }
+
+																																																																																	     .reo {
+																																																																																		         color: white;
+																																																																																			     font-size: 30px;
+																																																																																			         margin-bottom:-50px;
+																																																																																			 }
+																																																																																			 .da{
+																																																																																				     text-align: center;
+																																																																																				         color: white;
+																																																																																					     margin-left: 80px;
+																																																																																				     }
+																																																																																				     footer {
+																																																																																					         background-color:orange;
+																																																																																						     color: #fff;
+																																																																																						         text-align: center;
+																																																																																							     padding: 20px 0;
+																																																																																							         height: 30px;
+																																																																																							 }
+																																																																																							 .a,h3{
+																																																																																								     text-align: center;
+																																																																																								         color: white;
+																																																																																									     margin-left: 30px;
+																																																																																								     }
+																																																																																								     .ew input{
+																																																																																									         width: 800px;
+																																																																																										     background-color: #fff;
+																																																																																										         color: black;
+																																																																																											     margin-left: 400px;
+																																																																																											         border: none;
+																																																																																											 }
+																																																																																											 .project,h5{
+																																																																																												     color: white;
+																																																																																												         font-size: 40px;
+																																																																																													     text-align: center;
+																																																																																													         margin-top: -800px;
+																																																																																													 }
+																																																																																													 .er{
+																																																																																														     width: 900px;
+																																																																																														         height: 100px;
+																																																																																															     border-radius: 30px;
+																																																																																															         text-align: center;
+																																																																																																     font-size: 20px;
+																																																																																																         border: #fff;
+																																																																																																	     background-color: white;
+																																																																																																     }
+																																																																																																     .doo,h7{
+																																																																																																	      font-size: 30px;
+																																																																																																      }
+																																																																																																      .dee {
+																																																																																																	          background-color:black;
+																																																																																																		      color: #fff;
+																																																																																																		          width: 500px;
+																																																																																																			      height: 300px;
+																																																																																																			          text-align: center;
+																																																																																																			  }
+																																																																																																			  .py{
+																																																																																																				      background-color:black;
+																																																																																																				          color: #fff;
+																																																																																																					      width: 400px;
+																																																																																																					         height: 300px;
+																																																																																																						    text-align: center;
+																																																																																																						       margin-left:500px ;
+																																																																																																						          margin-top: -600px;
+																																																																																																						  }
+																																																																																																						  .cs{
+																																																																																																							      background-color:black;
+																																																																																																							          color: #fff;
+																																																																																																								      width: 500px;
+																																																																																																								         height: 300px;
+																																																																																																									    text-align: center;
+																																																																																																								    }
+																																																																																																								    .jav{
+																																																																																																									        background-color:black;
+																																																																																																										    color: #fff;
+																																																																																																										        width: 400px;
+																																																																																																											   height: 300px;
+																																																																																																											      text-align: center;
+																																																																																																											         margin-left: 500px;
+																																																																																																											 }
+																																																																																																											 .fh{
+																																																																																																												     margin-left: 950px;
+																																																																																																												         margin-top: -600px;
+																																																																																																													     width: 500px;
+																																																																																																													         height: 400px;
+																																																																																																													 }
+																																																																																																													 @media screen and (width < 1120px) {
+																																																																																																														     #About{
+																																																																																																															          padding: 0px 20px;
+																																																																																																																      } 
+																																																																																																																       }
+																																																																																																																        
+																																																																																																																        @media screen and (width < 600px) {
+																																																																																																																		     #project{
+																																																																																																																			              width: 100%;
+																																																																																																																				           }
+																																																																																																																					    }
+																																																																																																																					     
